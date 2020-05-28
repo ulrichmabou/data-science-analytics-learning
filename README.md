@@ -1,5 +1,1 @@
-# hash-analytic
-
-A collection of code samples, notebooks and projects completed for the Hash Analytic Global Internship
-
-https://hashanalytic.com
+A collection of code samples, notebooks and projects completed while learning data science and ML.
